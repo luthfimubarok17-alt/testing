@@ -9,3 +9,4 @@ testing
 <img width="1080" height="1080" alt="logo advokesma text" src="https://github.com/user-attachments/assets/926e0008-24aa-4729-afbc-943079ddf645" />
 <img width="1080" height="1080" alt="logo BPH text" src="https://github.com/user-attachments/assets/7cf564d0-e51a-4295-a5b4-79d2ec6110a4" />
 <img width="1080" height="1080" alt="logo sosma text" src="https://github.com/user-attachments/assets/4415eb70-88bc-48ab-bbd4-62bffb4ddc96" />
+<img width="1080" height="1080" alt="logo bestari web" src="https://github.com/user-attachments/assets/00e86a44-afd5-4d7c-bcd3-dd76ff07e945" />
