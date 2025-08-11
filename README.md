@@ -11,3 +11,4 @@ testing
 <img width="1080" height="1080" alt="logo sosma text" src="https://github.com/user-attachments/assets/4415eb70-88bc-48ab-bbd4-62bffb4ddc96" />
 <img width="1080" height="1080" alt="logo bestari web" src="https://github.com/user-attachments/assets/00e86a44-afd5-4d7c-bcd3-dd76ff07e945" />
 <img width="1080" height="1080" alt="logo abhipraya web" src="https://github.com/user-attachments/assets/bdb4ca12-6462-408b-aff7-362b58848c9b" />
+<img width="512" height="512" alt="logo himapsi" src="https://github.com/user-attachments/assets/2c701692-e7e9-4783-90f7-cff10f7f7aaa" />
