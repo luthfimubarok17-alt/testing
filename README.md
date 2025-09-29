@@ -10,8 +10,10 @@ testing
 <img width="1080" height="1080" alt="logo BPH text" src="https://github.com/user-attachments/assets/7cf564d0-e51a-4295-a5b4-79d2ec6110a4" />
 <img width="1080" height="1080" alt="logo sosma text" src="https://github.com/user-attachments/assets/4415eb70-88bc-48ab-bbd4-62bffb4ddc96" />
 <img width="1080" height="1080" alt="logo bestari web" src="https://github.com/user-attachments/assets/00e86a44-afd5-4d7c-bcd3-dd76ff07e945" />
-<img width="1080" height="1080" alt="logo abhipraya web" src="https://github.com/user-attachments/assets/bdb4ca12-6462-408b-aff7-362b58848c9b" />
 <img width="512" height="512" alt="logo himapsi" src="https://github.com/user-attachments/assets/2c701692-e7e9-4783-90f7-cff10f7f7aaa" />
 <img width="512" height="512" alt="LOGO HIMAPSI (1)" src="https://github.com/user-attachments/assets/c820d9c2-543f-4659-8b7c-93592a47da3f" />
 ![Hearing_Advokesma (1)](https://github.com/user-attachments/assets/ff104784-bd4b-492b-b5c1-57e42b66f5a1)
 ![satu langkah dokum](https://github.com/user-attachments/assets/9d00eda6-b668-4613-8981-eee796153218)
+<img width="1080" height="1080" alt="logo abhipraya web" src="https://github.com/user-attachments/assets/bdb4ca12-646<img width="1080" height="1350" alt="manggis" src="https://github.com/user-attachments/assets/e06a69fe-a0ca-438b-8a6d-85a707906039" />
+2-408b-aff7-362b58848c9b" />
+<img width="1080" height="1350" alt="manggis" src="https://github.com/user-attachments/assets/3c3a2004-b5e3-408c-8b8a-cde3829e7aa0" />
