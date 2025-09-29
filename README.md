@@ -16,4 +16,4 @@ testing
 ![satu langkah dokum](https://github.com/user-attachments/assets/9d00eda6-b668-4613-8981-eee796153218)
 <img width="1080" height="1080" alt="logo abhipraya web" src="https://github.com/user-attachments/assets/bdb4ca12-646<img width="1080" height="1350" alt="manggis" src="https://github.com/user-attachments/assets/e06a69fe-a0ca-438b-8a6d-85a707906039" />
 2-408b-aff7-362b58848c9b" />
-<img width="1080" height="1350" alt="manggis" src="https://github.com/user-attachments/assets/3c3a2004-b5e3-408c-8b8a-cde3829e7aa0" />
+<img width="1080" height="1350" alt="manggis" src="https://github.com/user-attachments/assets/f159fe87-58d3-4bd6-bb56-274df838348d" />
