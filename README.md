@@ -17,3 +17,12 @@ testing
 <img width="1080" height="1080" alt="logo abhipraya web" src="https://github.com/user-attachments/assets/bdb4ca12-646<img width="1080" height="1350" alt="manggis" src="https://github.com/user-attachments/assets/e06a69fe-a0ca-438b-8a6d-85a707906039" />
 2-408b-aff7-362b58848c9b" />
 <img width="1080" height="1350" alt="manggis" src="https://github.com/user-attachments/assets/f159fe87-58d3-4bd6-bb56-274df838348d" />
+<img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/84503774-c9fd-4ec6-8f3c-751d8823e51c" />
+<img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/321e9e62-34b7-47a3-a6fb-5a23b06d2efd" />
+<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/7bd421e0-2863-4ceb-a97a-a8680f0f18ea" />
+<img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/c0952d4b-9a7c-4c1d-8966-6c54a1dacc53" />
+<img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/2fb348ad-5e78-461a-88b2-bad30701d949" />
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/76b5d6e3-ffba-4b0f-b131-478b8b10835e" />
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/101eabb0-a5c6-49c7-b2d9-354a439e879b" />
+<img width="1080" height="1080" alt="9" src="https://github.com/user-attachments/assets/30a83eb8-fee1-4ef9-84b5-0ff17a6e0502" />
+<img width="1080" height="1080" alt="8" src="https://github.com/user-attachments/assets/b8f9aa97-0970-448a-84d7-b27281a6ecb5" />
