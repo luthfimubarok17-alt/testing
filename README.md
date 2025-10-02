@@ -50,3 +50,9 @@ testing
 <img width="1110" height="500" alt="humas a5" src="https://github.com/user-attachments/assets/a8b72bba-bdba-47f2-9b08-56dec2e8e904" />
 <img width="1110" height="500" alt="humas a6" src="https://github.com/user-attachments/assets/b43d12df-5c20-430f-9d1e-e8df02968ccd" />
 <img width="1110" height="500" alt="humas a1" src="https://github.com/user-attachments/assets/d938d229-1a51-4062-8fb4-9dbd556f8541" />
+<img width="1110" height="500" alt="kembang a4" src="https://github.com/user-attachments/assets/9cc65d0e-3a5b-4ca5-bec1-d485aec563ef" />
+<img width="1110" height="500" alt="kembang a5" src="https://github.com/user-attachments/assets/3f091a3e-722c-4413-908c-ae76cca919f2" />
+<img width="1110" height="500" alt="kembang a6" src="https://github.com/user-attachments/assets/d874106a-ebda-4cef-b989-6609af920c62" />
+<img width="1110" height="500" alt="kembang a1" src="https://github.com/user-attachments/assets/f9a3bddb-cb20-456d-bb37-793c588da180" />
+<img width="1110" height="500" alt="kembang a2" src="https://github.com/user-attachments/assets/98ff00cb-5c65-4016-b4e1-c7eddae147cd" />
+<img width="1110" height="500" alt="kembang a3" src="https://github.com/user-attachments/assets/1cf1a5e6-8e72-42b9-beaa-6ba3e4805573" />
