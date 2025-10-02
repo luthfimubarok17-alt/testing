@@ -80,3 +80,9 @@ testing
 <img width="1110" height="500" alt="skor a5" src="https://github.com/user-attachments/assets/864c7d04-a659-4a48-933d-a284168c1810" />
 <img width="1110" height="500" alt="skor a6" src="https://github.com/user-attachments/assets/1eb3a0d3-a5af-48d7-b8d1-194d612cc7aa" />
 <img width="1110" height="500" alt="skor a1" src="https://github.com/user-attachments/assets/3ae5d23a-dd9e-4525-8034-cc9aa534582b" />
+<img width="1110" height="500" alt="sosma a5" src="https://github.com/user-attachments/assets/07d6c189-49ae-4fee-b04e-55bcad8e1baf" />
+<img width="1110" height="500" alt="sosma a6" src="https://github.com/user-attachments/assets/9de7aeb9-6d83-4fa6-974f-574079a9fabd" />
+<img width="1110" height="500" alt="sosma a1" src="https://github.com/user-attachments/assets/09ee94dc-c30f-4976-b0bf-ddd6f33341da" />
+<img width="1110" height="500" alt="sosma a2" src="https://github.com/user-attachments/assets/b1c0bc48-bbdd-4104-a661-795e70273dae" />
+<img width="1110" height="500" alt="sosma a3" src="https://github.com/user-attachments/assets/28e90aeb-9bcd-4fd8-9d2d-b784eec1030a" />
+<img width="1110" height="500" alt="sosma a4" src="https://github.com/user-attachments/assets/50922b9a-1688-49e6-8eef-486cf2d34d40" />
