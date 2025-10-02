@@ -74,3 +74,9 @@ testing
 <img width="1110" height="500" alt="msdm a3" src="https://github.com/user-attachments/assets/eca8b64e-f268-4b66-91a9-5af7efbb3925" />
 <img width="1110" height="500" alt="msdm a4" src="https://github.com/user-attachments/assets/0ec5de0d-4ccc-40cd-b002-9c8add1e54fd" />
 <img width="1110" height="500" alt="msdm a5" src="https://github.com/user-attachments/assets/f3123c0c-07cd-415c-a4de-8425d9986389" />
+<img width="1110" height="500" alt="skor a2" src="https://github.com/user-attachments/assets/122210be-9c73-4aad-a2fd-edd343f7fb90" />
+<img width="1110" height="500" alt="skor a3" src="https://github.com/user-attachments/assets/401c99e7-85ec-4db1-a8ea-5cf17d6665f8" />
+<img width="1110" height="500" alt="skor a4" src="https://github.com/user-attachments/assets/91479caf-df10-4f3b-9d3c-0460a255621c" />
+<img width="1110" height="500" alt="skor a5" src="https://github.com/user-attachments/assets/864c7d04-a659-4a48-933d-a284168c1810" />
+<img width="1110" height="500" alt="skor a6" src="https://github.com/user-attachments/assets/1eb3a0d3-a5af-48d7-b8d1-194d612cc7aa" />
+<img width="1110" height="500" alt="skor a1" src="https://github.com/user-attachments/assets/3ae5d23a-dd9e-4525-8034-cc9aa534582b" />
