@@ -44,3 +44,9 @@ testing
 <img width="1110" height="500" alt="bpi 2" src="https://github.com/user-attachments/assets/14cd43f7-0d87-4fd1-bd3a-b51d4dbabfcc" />
 <img width="1110" height="500" alt="bpi 3" src="https://github.com/user-attachments/assets/ad6b2c3a-a234-4d93-8bb1-6ca324ed373a" />
 <img width="1110" height="500" alt="bpi 4" src="https://github.com/user-attachments/assets/7d857580-0a0b-4053-80dd-1b5dea6c6751" />
+<img width="1110" height="500" alt="humas a2" src="https://github.com/user-attachments/assets/8dbd4d47-d9e6-4b45-9813-0a6e10244e3d" />
+<img width="1110" height="500" alt="humas a3" src="https://github.com/user-attachments/assets/1aa246b4-a329-4a44-9669-a832c576e096" />
+<img width="1110" height="500" alt="humas a4" src="https://github.com/user-attachments/assets/2e954599-46de-4076-9e9e-ecf9237cc1ac" />
+<img width="1110" height="500" alt="humas a5" src="https://github.com/user-attachments/assets/a8b72bba-bdba-47f2-9b08-56dec2e8e904" />
+<img width="1110" height="500" alt="humas a6" src="https://github.com/user-attachments/assets/b43d12df-5c20-430f-9d1e-e8df02968ccd" />
+<img width="1110" height="500" alt="humas a1" src="https://github.com/user-attachments/assets/d938d229-1a51-4062-8fb4-9dbd556f8541" />
