@@ -56,3 +56,9 @@ testing
 <img width="1110" height="500" alt="kembang a1" src="https://github.com/user-attachments/assets/f9a3bddb-cb20-456d-bb37-793c588da180" />
 <img width="1110" height="500" alt="kembang a2" src="https://github.com/user-attachments/assets/98ff00cb-5c65-4016-b4e1-c7eddae147cd" />
 <img width="1110" height="500" alt="kembang a3" src="https://github.com/user-attachments/assets/1cf1a5e6-8e72-42b9-beaa-6ba3e4805573" />
+<img width="1110" height="500" alt="kwu a6" src="https://github.com/user-attachments/assets/df7ef53e-34fc-4266-abda-7f3ea3eb128b" />
+<img width="1110" height="500" alt="kwu a1" src="https://github.com/user-attachments/assets/3f1f4b84-7a1e-4ce3-9e5c-2e6897083360" />
+<img width="1110" height="500" alt="kwu a2" src="https://github.com/user-attachments/assets/48b0da20-8b4d-4b27-a637-56f427ba4517" />
+<img width="1110" height="500" alt="kwu a3" src="https://github.com/user-attachments/assets/f9755cee-8acc-415d-a94d-2efb6ed7eb04" />
+<img width="1110" height="500" alt="kwu a4" src="https://github.com/user-attachments/assets/9ea2cf99-499c-4d62-8908-fbb0f153d059" />
+<img width="1110" height="500" alt="kwu a5" src="https://github.com/user-attachments/assets/5a076e99-6251-459f-a0dd-58acd5be91bd" />
