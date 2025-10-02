@@ -32,3 +32,9 @@ testing
 <img width="1110" height="500" alt="advo 1" src="https://github.com/user-attachments/assets/edb70001-3f5c-4a96-9033-b03e56141cfb" />
 <img width="1110" height="500" alt="advo 6" src="https://github.com/user-attachments/assets/fe0ed082-ab0e-4c0c-ae07-4d7f31998b5c" />
 <img width="1110" height="500" alt="advo 5" src="https://github.com/user-attachments/assets/f552bb22-505a-4aad-a284-b96cd7b34880" />
+<img width="1110" height="500" alt="humas 2" src="https://github.com/user-attachments/assets/4eb9c5e2-f218-4237-b2b0-4c8363b865d9" />
+<img width="1110" height="500" alt="humas 3" src="https://github.com/user-attachments/assets/45975ff9-5988-4623-8d60-4cb33ae7bdc5" />
+<img width="1110" height="500" alt="humas 4" src="https://github.com/user-attachments/assets/d5832e86-a283-4c6f-a1a0-e2c2a6c272de" />
+<img width="1110" height="500" alt="humas 5" src="https://github.com/user-attachments/assets/866870ab-bbba-4b82-a761-dcf34c488045" />
+<img width="1110" height="500" alt="humas 6" src="https://github.com/user-attachments/assets/034e2e05-2530-4b41-9027-6a5b8e8b102b" />
+<img width="1110" height="500" alt="humas 1" src="https://github.com/user-attachments/assets/f974f9ca-c6a6-49e2-9676-5a1030ab5a32" />
