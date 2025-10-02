@@ -62,3 +62,9 @@ testing
 <img width="1110" height="500" alt="kwu a3" src="https://github.com/user-attachments/assets/f9755cee-8acc-415d-a94d-2efb6ed7eb04" />
 <img width="1110" height="500" alt="kwu a4" src="https://github.com/user-attachments/assets/9ea2cf99-499c-4d62-8908-fbb0f153d059" />
 <img width="1110" height="500" alt="kwu a5" src="https://github.com/user-attachments/assets/5a076e99-6251-459f-a0dd-58acd5be91bd" />
+<img width="1110" height="500" alt="medin a2" src="https://github.com/user-attachments/assets/cd95d427-dd1a-4c31-be68-b70530d15223" />
+<img width="1110" height="500" alt="medin a3" src="https://github.com/user-attachments/assets/6b43f6c7-4229-46c9-9217-8448fe061070" />
+<img width="1110" height="500" alt="medin a4" src="https://github.com/user-attachments/assets/82e0bbd4-f911-4754-b157-13de0b80f41d" />
+<img width="1110" height="500" alt="medin a5" src="https://github.com/user-attachments/assets/f178bf6b-6c05-4c48-8278-cf0168021908" />
+<img width="1110" height="500" alt="medin a6" src="https://github.com/user-attachments/assets/08d84673-3514-4a88-9bdb-63573700830c" />
+<img width="1110" height="500" alt="medin a1" src="https://github.com/user-attachments/assets/69c6407f-a2ba-4486-b8fc-f397d5074056" />
