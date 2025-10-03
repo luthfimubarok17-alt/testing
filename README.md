@@ -85,4 +85,10 @@ testing
 <img width="1110" height="500" alt="sosma a1" src="https://github.com/user-attachments/assets/09ee94dc-c30f-4976-b0bf-ddd6f33341da" />
 <img width="1110" height="500" alt="sosma a2" src="https://github.com/user-attachments/assets/b1c0bc48-bbdd-4104-a661-795e70273dae" />
 <img width="1110" height="500" alt="sosma a3" src="https://github.com/user-attachments/assets/28e90aeb-9bcd-4fd8-9d2d-b784eec1030a" />
-<img width="1110" height="500" alt="sosma a4" src="https://github.com/user-attachments/assets/50922b9a-1688-49e6-8eef-486cf2d34d40" />
+<img width="1110" height="500" alt="sosma a4" src="https://github.com/user-attachments/assets/50922b9a-1688-49e6-<img width="1110" height="500" alt="kembang r3" src="https://github.com/user-attachments/assets/93fd8bc7-0949-4285-83c9-96bc94bbb11e" />
+<img width="1110" height="500" alt="kembang r4" src="https://github.com/user-attachments/assets/11ca661e-49a4-468f-a0c6-fbee65331a16" />
+<img width="1110" height="500" alt="kembang r5" src="https://github.com/user-attachments/assets/1086aa97-0834-4de2-836a-6a05d156bd42" />
+<img width="1110" height="500" alt="kembang r6" src="https://github.com/user-attachments/assets/10d46aea-6c0a-4dc0-9807-a4b41db1cd4a" />
+<img width="1110" height="500" alt="kembang r1" src="https://github.com/user-attachments/assets/8fdc0207-52bc-4308-8d3e-15bb0856cf07" />
+<img width="1110" height="500" alt="kembang r2" src="https://github.com/user-attachments/assets/957a844f-20c4-4ff8-8e93-a1ea2f4314a5" />
+8eef-486cf2d34d40" />
